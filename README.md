@@ -72,7 +72,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Gaudencio Benitez– bcgaudencio@gmail.com
 
-Project Link: [https://github.com/yourusername/automated-supply-chain](https://github.com/yourusername/automated-supply-chain)
+Project Link: [https://github.com/bcgaudencio/Automated-Airport-SCM-with-GitLab-and-AWS-)
 
 ## Acknowledgments
 
